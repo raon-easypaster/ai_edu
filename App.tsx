@@ -22,7 +22,7 @@ function App() {
   }, [searchTerm]);
 
   const handleAddClick = () => {
-    alert("이 보드는 깃허브를 통해 관리됩니다.\n\n내용을 추가하거나 순서를 바꾸려면 프로젝트 폴더 내의 'constants.ts' 파일을 편집한 후 다시 배포해주세요.");
+    alert("이 보드는 깃허브를 통해 관리됩니다.\n\n1. 'constants.ts' 파일에서 내용을 수정하세요.\n2. 수정 후 GitHub에 푸시하면 변경사항이 반영됩니다.\n(빌드 및 배포 과정이 필요합니다)");
   };
 
   return (

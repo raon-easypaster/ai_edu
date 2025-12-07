@@ -1,5 +1,5 @@
 {
-  "name": "ai-resource-board",
+  "name": "ai-목회자-활용-보드",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,9 @@
   "dependencies": {
     "react-dom": "^19.2.1",
     "lucide-react": "^0.556.0",
-    "react": "^19.2.1"
+    "react": "^19.2.1",
+    "vite": "^7.2.6",
+    "@vitejs/plugin-react": "^5.1.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
