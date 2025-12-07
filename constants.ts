@@ -29,8 +29,8 @@ export const INITIAL_COLUMNS: Column[] = [
         id: 'joo-2',
         title: '인공지능(AI)의 이해',
         content: '어떤 AI를 사용해야 할까요?\n각 모델의 특징을 이해하면 좋습니다.\n\n• ChatGPT: 모든 분야에서 수준이 높은 육각형 AI\n• Claude: 글쓰기에 특화, 자연스러운 한국어\n• Gemini: 구글 생태계와 강력한 연동\n• Grok: 최신 뉴스 및 트렌드 반영 속도가 빠름',
-        url: 'https://padlet.com/galeb76/ai-ojb7gl4pw8rczcm1',
-        description: '어떤 AI를 사용해야 하는가? (패들릿 링크 포함)',
+        url: 'https://docs.google.com/presentation/d/1JB4F88dsRngoYZnI5jIRzXkJ01TMNjgIefs9A0-XbOk/edit?slide=id.p1#slide=id.p1',
+        description: '어떤 AI를 사용해야 하는가? (강의안)',
         color: CardColor.WHITE,
         icon: '💡'
       }
@@ -117,7 +117,7 @@ export const INITIAL_COLUMNS: Column[] = [
       {
         id: 'tool-2',
         title: '설교 도구 모음 2 (Tip)',
-        content: 'TiP! 하나의 AI만 고집하지 마세요.\n\n[작업 워크플로우 예시]\n1. NotebookLM: 스튜디오 기능으로 브리핑 문서 만들기\n2. Gemini: 초안 작성 및 다듬기\n3. Canva: 인포그래픽 작성 및 AI 이미지 생성\n4. Github: 작성된 코드/자료 저장\n5. Obsidian: 쉐어노트 플러그인으로 웹 게시\n\n*브리핑 문서는 4천자 이하로 정리하는 것이 좋습니다.',
+        content: 'TiP! 하나의 AI만 고집하지 마세요.\n\n[작업 워크플로우 예시]\n1. NotebookLM: 스튜디오 기능으로 브리핑 문서 만들기\n2. Gemini: 초안 작성 및 다듬기\n3. Canva: 인포그래픽 작성 및 AI 이미지 생성\n4. Github: 작성된 코드/자료 저장\n5. Obsidian: 쉐어노트 플러그인으로 웹 게시\n\n[랜딩페이지 만들기]\n1. 캔바 사용하기\n2. 옵시디언 사용하기\n3. 깃허브 사용하기\n\n*브리핑 문서는 4천자 이하로 정리하는 것이 좋습니다.',
         color: CardColor.ORANGE,
         icon: '💡'
       },
@@ -217,7 +217,7 @@ export const INITIAL_COLUMNS: Column[] = [
       {
         id: 'obs-2',
         title: '볼트(Vault) 샘플 다운로드',
-        description: '볼트(Vault)는 모든 메모가 저장되는 가장 상위 폴더(금고)입니다.',
+        description: '볼트(Vault)는 모든 메모가 저장되는 가장 상위 폴더입니다. (Vault는 금고라는 뜻입니다)',
         url: 'https://drive.google.com/file/d/1XuNv3UG6hAEPbsnnjQguesfnxbaWlEgm/view?usp=share_link',
         color: CardColor.GRAY
       },
@@ -324,7 +324,7 @@ export const INITIAL_COLUMNS: Column[] = [
       {
         id: 'yt-1',
         title: 'LiveWiki (라이브위키)',
-        url: 'https://livewiki.com', // Assuming URL based on name, please verify if different
+        url: 'https://livewiki.com', 
         color: CardColor.RED,
         icon: '▶️'
       }
