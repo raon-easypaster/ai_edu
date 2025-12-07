@@ -7,6 +7,6 @@ export default defineConfig({
   base: '/ai_edu/', // GitHub Pages 저장소 이름
   build: {
     outDir: 'docs', // dist 대신 docs 폴더에 생성
-    emptyOutDir: true, // 빌드 시 기존 파일을 지우고 새로 생성 (충돌 방지)
+    emptyOutDir: true, // 빌드 시 기존 파일을 지우고 새로 생성
   }
 });
